@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    color: #222;
+}
+
+.navbar{
+    padding: .8rem;
+}
+
+.navbar-nav li{
+    padding: 20px;
+}
+
+.nav-link{
+    font-size: 1.1em !important;
+}
+/*
+
+.padding{
+    padding-bottom: 2rem;
+}
+
+.welcome{
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+.welcome hr{
+    border-top: 2px solid #b4b4b4;
+    width: 95%;
+    margin-top: .3rem;
+    margin-bottom: 1rem;
+}
+
+.fun{
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.social a{
+    font-size: 2.5em;
+    padding: 10px;
+}
+
+.fa {
+    padding: 200px;
+    font-size: 500px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    position: relative;
+    overflow: hidden;
+}
+
+!* Darker background on mouse-over *!
+.btn:hover {
+    background-color: RoyalBlue;
+}
+
+.social-icon li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.social{
+    display: inline;
+}
+
+.social-icon li a {
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    border: 1px solid #677fb5;
+    display: block;
+    line-height: 40px;
+    font-size: 18px;
+    border-radius: 5px;
+    transition: all 400ms linear 0s;
+    color: #677fb5;
+}
+
+.social-con li:hover a{
+    background: #70c2e9;
+}
+
+
+*/
+.image{
+    max-width: 100%;
+    width: 80%;
+    height: auto;
+}
+
+.btn{
+    display: block;
+    padding-top: 20px;
+    width:80%;
+    max-width: 100%;
+
+}
+
+.download-btn{
+    padding-top: 10px;
+}
+.img-download{
+    /*the image and download button, have them both centered*/
+
+}
+
+
+.about-me{
+    /*the whole right side about me*/
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.fun{
+    padding: 1em;
+    padding-bottom: 1rem;
+}
+
+.padding{
+    padding-bottom: 1em;
+}
+
+.burg {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.fa-twitter {
+    color: #55ACEE;
+
+}
+
+.fa-linkedin {
+    color: #007bb5;
+}
+
+.fa-instagram{
+    color: #517fa4;
+}
+
+.fa-twitter:hover, .fa-linkedin:hover, .fa-instagram:hover{
+    color: #d5d5d5;
+}
+
+.social-media-btns{
+    text-align: center;
+
+    display: inline-block;
+}
+
+.like-move{
+    text-align: center;
+}
