@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -39,27 +38,27 @@
     </div>
 </nav>
 
-
 <div class="container">
     <div class="row">
-    <div class="col-sm-2">
-    </div>
-    <div class="col-sm-8 text-center">
-        <h2>Send me an e-mail:</h2>
-
-    <form action="mail.php" method="POST">
-        Name:<br>
-        <input type="text" name="name"><br>
-        E-mail:<br>
-        <input type="text" name="mail"><br>
-        Comment:<br>
-        <input type="text" name="comment" size="50"><br><br>
-        <input type="submit" value="Send">
-        <input type="reset" value="Reset">
-    </form>
+        <div class="col-sm-2">
         </div>
-    <div class="col-sm-2">
-    </div>
+        <div class="col-sm-8 text-center">
+            <h2>Send me an e-mail:</h2>
+
+
+            <form action="mail.php" method="POST">
+
+                Name:<br>
+                <input type="text" name="name"><br>
+                E-mail:<br>
+                <input type="text" name="mail"><br>
+                Comment:<br>
+                <input type="text" name="comment" size="50"><br><br>
+                <input type="submit" value="Send">
+            </form>
+        </div>
+        <div class="col-sm-2">
+        </div>
     </div>
 </div>
 
@@ -73,6 +72,7 @@
     </div>
 </footer>
 
-<script src="main.js"></script>
 </body>
 </html>
+
+
