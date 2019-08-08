@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    color: #222;
+}
+
+.navbar{
+    padding: .8rem;
+}
+
+.navbar-nav li{
+    padding: 20px;
+}
+
+.nav-link {
+    font-size: 1.1em !important;
+}
+.image{
+    max-width: 100%;
+    width: 80%;
+    height: auto;
+}
+
+.btn{
+    display: block;
+    padding-top: 20px;
+    width:80%;
+    max-width: 100%;
+
+}
+
+.download-btn{
+    padding-top: 10px;
+    position: center;
+}
+.img-download{
+    /*the image and download button, have them both centered*/
+
+}
+
+
+.about-me{
+    /*the whole right side about me*/
+}
+
+.card-img-top {
+    width: 100%;
+
+    object-fit: cover;
+}
+
+.fun{
+    padding: 1em;
+    padding-bottom: 1rem;
+}
+
+.padding{
+    padding-bottom: 1em;
+}
+
+.burg {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.fa-twitter {
+    color: #55ACEE;
+
+}
+
+.fa-linkedin {
+    color: #007bb5;
+}
+
+.fa-instagram{
+    color: #517fa4;
+}
+
+.fa-twitter:hover, .fa-linkedin:hover, .fa-instagram:hover{
+    color: #d5d5d5;
+}
+
+.social-media-btns{
+    text-align: center;
+
+    display: inline-block;
+}
+
+.like-move{
+    text-align: center;
+}
+
+
+.workLogo{
+    width: 50px;
+    height: 100px;
+}
